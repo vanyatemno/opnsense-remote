@@ -1,5 +1,5 @@
 <?php
-namespace OPNsense\HelloWorld2
+namespace OPNsense\HelloWorld2;
 
 class IndexController extends HelloWorld2 {
     public function indexAction () {
